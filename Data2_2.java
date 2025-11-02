@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Data2_2 {
 
-    // Class untuk menyimpan data penumpang
+    // Class untuk menyimpan data penumpangg
     static class Penumpang {
         String nama;
         String noTelp;
